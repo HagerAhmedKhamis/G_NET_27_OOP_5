@@ -1,4 +1,4 @@
-﻿#region solution:
+﻿#region solution
 using System;
 
 namespace G_NET_27_OOP_5
